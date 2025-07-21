@@ -1,4 +1,6 @@
-// interfaces/index.ts
+export interface PillProps {
+  title: string;
+}
 
 export interface Address {
   state: string;

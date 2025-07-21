@@ -8,6 +8,12 @@ export const ITEMS_PER_PAGE = 10;
 export const APP_NAME = 'ALX Listing App';
 export const DEFAULT_LANGUAGE = 'en-US';
 
+export const FILTERS = [
+  "Top Villa", "Self Checkin", "Private Pool", "Family Friendly",
+  "Countryside", "Ocean View", "Pet Friendly"
+];
+
+
 // UI Text
 export const UI_TEXT = {
   LOAD_MORE: 'Load More',
