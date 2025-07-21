@@ -1,9 +1,8 @@
-
-import backgroundImage from "@/assets/hero.jpg"; // Ensure this image exists
+import backgroundImage from "@/assets/hero.jpg";
 import Pill from "@/components/Pill";
 import Card from "@/components/Card";
-import { PROPERTYLISTINGSAMPLE } from "@/constants";
-import { FILTERS } from "@/constants";
+import { PROPERTYLISTINGSAMPLE, FILTERS } from "@/constants";
+
 
 export default function Home() {
   return (
